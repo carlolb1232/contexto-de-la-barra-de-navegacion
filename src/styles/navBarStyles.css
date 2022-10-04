@@ -1,0 +1,12 @@
+nav{
+  box-sizing: border-box;
+  width: 100%;
+  background-color: rgb(140,48,197);
+  color: white;
+  text-align: end;
+  padding: 10px 20px;
+}
+
+p{
+  margin: 0;
+}
